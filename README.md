@@ -1,12 +1,9 @@
-OrbitViewer.NET 1.0
-============================
+
+# OrbitViewer.NET
+
 C# desktop implementation of OrbitViewer, an interactive Java applet
 that displays the orbit of small bodies (comets or asteroids) in the
 solar system in 3D.
-
-Copyright &copy; 2019 Luka Jurakovic
-
-All Rights Reserved.
 
 
 ## Origins
@@ -18,27 +15,33 @@ It was further modified by Ron Baalke (NASA/JPL) in 2000-2001.
 ## Description
 
 This is the initial version of OrbitViewer.NET. Most of it is just 
-translated from Java to C#. The core codebase is mostly intact, just 
-applied some C# conventions, renamings and formatting, with some
-minor changes.
+translated from Java to C#. The core codebase is mostly intact, 
+just some C# conventions were applied, with renamings and formatting, 
+and with some minor changes.
 
 
 ## Download
 
-Program can be downloaded at following URL:
-https://jurakovic.github.io/
+[![GitHub Release](https://img.shields.io/github/v/release/jurakovic/orbitviewer.net)](https://github.com/jurakovic/OrbitViewer.NET/releases/latest)
+
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/jurakovic/OrbitViewer.NET/gh-pages/screenshot.png)
 
 
 ## Run
 
-Extract zip and run OrbitViewer.NET.exe.
+Extract zip and run OrbitViewer.NET.exe.  
 Program uses MPC format of orbital elements. Latest elements can be
 downloaded from MPC site, link provided below in Links section.
 
-Release package contains two sample dat files.
+Release package contains two sample dat files:
 
-    comets.dat
-    asteroids.dat
+```
+comets.dat
+asteroids.dat
+```
 
 
 ## Licence
@@ -56,14 +59,11 @@ GNU General Public License for more details.
 
 ## Links
 
-Homepage
-https://jurakovic.github.io/
-
-OrbitViewer Java Applet (AstroArts)
+OrbitViewer Java Applet (AstroArts)  
 https://www.astroarts.co.jp/products/orbitviewer/index.html
 
-Center for Near Earth Object Studies - Orbits (NASA/JPL)
+Center for Near Earth Object Studies - Orbits (NASA/JPL)  
 https://cneos.jpl.nasa.gov/orbits/
 
-Minor Planet Center: Orbital Elements (IAU)
+Minor Planet Center: Orbital Elements (IAU)  
 https://minorplanetcenter.net/iau/Ephemerides/Soft00.html
