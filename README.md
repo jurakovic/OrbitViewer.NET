@@ -24,11 +24,6 @@ and with some minor changes.
 
 [![GitHub Release](https://img.shields.io/github/v/release/jurakovic/orbitviewer.net)](https://github.com/jurakovic/OrbitViewer.NET/releases/latest)
 
-<!--
-Program can be downloaded at the following URL:  
-https://jurakovic.github.io/
--->
-
 
 ## Screenshot
 
@@ -63,9 +58,6 @@ GNU General Public License for more details.
 
 
 ## Links
-
-Homepage  
-<https://jurakovic.github.io/>
 
 OrbitViewer Java Applet (AstroArts)  
 <https://www.astroarts.co.jp/products/orbitviewer/index.html>
