@@ -30,6 +30,11 @@ https://jurakovic.github.io/
 -->
 
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
+
 ## Run
 
 Extract zip and run OrbitViewer.NET.exe.  
